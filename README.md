@@ -3,9 +3,9 @@
 
 <img width="894" height="465" alt="{2804A8CC-0A3E-4EFF-B382-6B0644335A6A}" src="https://github.com/user-attachments/assets/d4bc1b57-32e5-40bc-97a8-098825e5fbfa" />
 
-# CODIGO Y VIDEO. Ejercicio#1
-
 # CODIGO Y VIDEO. Ejercicio#2
+
+<img width="1074" height="234" alt="{2FB3B488-0951-481B-A3C9-05D37A0A4364}" src="https://github.com/user-attachments/assets/a3c820af-d69e-449e-a5ee-e5e5f942eb17" />
 
 # CODIGO Y VIDEO. Ejercicio#3
 
