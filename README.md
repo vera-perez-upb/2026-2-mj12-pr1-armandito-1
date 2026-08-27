@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/4d4634bc-8edc-4cda-b42f-e421a0f3782b
+
 # CODIGO Y VIDEO. Ejercicio#1
 
 <img width="894" height="465" alt="{2804A8CC-0A3E-4EFF-B382-6B0644335A6A}" src="https://github.com/user-attachments/assets/d4bc1b57-32e5-40bc-97a8-098825e5fbfa" />
@@ -53,6 +55,17 @@ https://github.com/user-attachments/assets/8a98735c-466e-453f-ad8b-cd0a0190721e
 
 
 # CODIGO Y VIDEO. Ejercicio#7
+
+<img width="1536" height="737" alt="{8A46DD53-A707-4AB9-9E06-CEC8F3BF277C}" src="https://github.com/user-attachments/assets/85b31750-cbb5-451c-b30d-6dd3f0670479" />
+<img width="1534" height="744" alt="{328A74F6-25A0-43F9-B7AF-82816258E403}" src="https://github.com/user-attachments/assets/9547e6d5-c754-4208-b471-36246191032e" />
+
+<img width="1303" height="746" alt="{EF864CE5-05BA-42B1-9CDF-7A3836A3C550}" src="https://github.com/user-attachments/assets/8b6d1155-cfa9-4c9d-8450-5dc6abfddd0a" />
+
+
+
+https://github.com/user-attachments/assets/0dff8bb5-c959-40b7-a5ba-f626fa903e49
+
+
 
 # CODIGO Y VIDEO. Ejercicio#8
 
