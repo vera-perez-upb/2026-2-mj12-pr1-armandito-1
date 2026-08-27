@@ -1,4 +1,8 @@
 
+
+https://github.com/user-attachments/assets/0b1af2ad-ea8d-412d-9e70-b8f49a2c88cb
+
+
 # CODIGO Y VIDEO. Ejercicio#1
 
 <img width="894" height="465" alt="{2804A8CC-0A3E-4EFF-B382-6B0644335A6A}" src="https://github.com/user-attachments/assets/d4bc1b57-32e5-40bc-97a8-098825e5fbfa" />
@@ -31,7 +35,18 @@ https://github.com/user-attachments/assets/49761d83-f570-4169-bb5c-d9701d4a6cd3
 
 
 
+https://github.com/user-attachments/assets/d688c633-6487-472d-ad06-3e05899db02b
+
+
 # CODIGO Y VIDEO. Ejercicio#5
+
+<img width="1122" height="647" alt="{8E3F7FE5-EDE3-4AC3-9762-4E2DBB46E1C4}" src="https://github.com/user-attachments/assets/300b40f8-ec08-45a9-b56e-920e92899f85" />
+
+
+
+Uploading WhatsApp Video 2026-08-27 at 7.54.24 AM.mp4…
+
+
 
 # CODIGO Y VIDEO. Ejercicio#6
 
