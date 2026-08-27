@@ -1,15 +1,35 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_LHrL960)
+
 # CODIGO Y VIDEO. Ejercicio#1
 
 <img width="894" height="465" alt="{2804A8CC-0A3E-4EFF-B382-6B0644335A6A}" src="https://github.com/user-attachments/assets/d4bc1b57-32e5-40bc-97a8-098825e5fbfa" />
+
+
+
+https://github.com/user-attachments/assets/a9a50c6e-e83e-4de5-b384-5babe962c289
+
 
 # CODIGO Y VIDEO. Ejercicio#2
 
 <img width="1074" height="234" alt="{2FB3B488-0951-481B-A3C9-05D37A0A4364}" src="https://github.com/user-attachments/assets/a3c820af-d69e-449e-a5ee-e5e5f942eb17" />
 
+
+
+Uploading WhatsApp Video 2026-08-25 at 10.14.34 PM.mp4…
+
+
 # CODIGO Y VIDEO. Ejercicio#3
 
+<img width="975" height="265" alt="{FDAF7A49-50FF-4831-AA5C-7D5B2322FDE4}" src="https://github.com/user-attachments/assets/60565038-586d-4958-94a8-3012fc798c25" />
+
+
+https://github.com/user-attachments/assets/49761d83-f570-4169-bb5c-d9701d4a6cd3
+
 # CODIGO Y VIDEO. Ejercicio#4
+
+<img width="861" height="486" alt="{E9D93549-197D-4E9B-B7B3-C7FBC34E05AB}" src="https://github.com/user-attachments/assets/813bfad4-94e4-4d45-8f54-3d5e23dd2653" />
+<img width="1920" height="900" alt="{696674FC-AE61-4281-90F8-A7F8EDEB9CA9}" src="https://github.com/user-attachments/assets/a97869f4-e40b-49f7-845b-ab99b754a8b5" />
+
+
 
 # CODIGO Y VIDEO. Ejercicio#5
 
