@@ -1,8 +1,4 @@
 
-
-https://github.com/user-attachments/assets/0b1af2ad-ea8d-412d-9e70-b8f49a2c88cb
-
-
 # CODIGO Y VIDEO. Ejercicio#1
 
 <img width="894" height="465" alt="{2804A8CC-0A3E-4EFF-B382-6B0644335A6A}" src="https://github.com/user-attachments/assets/d4bc1b57-32e5-40bc-97a8-098825e5fbfa" />
