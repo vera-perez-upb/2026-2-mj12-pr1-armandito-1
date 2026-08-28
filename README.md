@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/4d4634bc-8edc-4cda-b42f-e421a0f3782b
 
 # CODIGO Y VIDEO. Ejercicio#1
 
@@ -66,7 +65,27 @@ https://github.com/user-attachments/assets/8a98735c-466e-453f-ad8b-cd0a0190721e
 https://github.com/user-attachments/assets/0dff8bb5-c959-40b7-a5ba-f626fa903e49
 
 
-
 # CODIGO Y VIDEO. Ejercicio#8
 
+<img width="956" height="731" alt="{CD7D5461-2574-45EB-9540-59C7D4A1B36F}" src="https://github.com/user-attachments/assets/f1b37e32-67f7-423e-8983-072e68ec13df" />
+
+
+https://github.com/user-attachments/assets/c7850b41-46ca-4bba-978f-913e9e6fd4f0
+
+
 # CODIGO Y VIDEO. Ejercicio#9
+### para el ejercicio 9 se usara el circuito dado en la parte practica del parcial uno.
+<img width="1403" height="1400" alt="image" src="https://github.com/user-attachments/assets/4bf01400-e3b2-4487-b768-e92186cbf1d8" />
+<img width="999" height="1323" alt="image" src="https://github.com/user-attachments/assets/3820c430-a2bc-433b-bc5f-649ba3fdecdf" />
+
+## codigos del quartus II.
+<img width="904" height="301" alt="{436F683B-778B-4DB9-9331-C4B54748DF23}" src="https://github.com/user-attachments/assets/558a481b-69f5-4e2d-b452-c389f5127a24" />
+<img width="1406" height="520" alt="{670106AD-CC96-46C2-871D-DE8F80967964}" src="https://github.com/user-attachments/assets/9a80715f-0862-4740-9269-4e9039ee2a40" />
+
+
+
+https://github.com/user-attachments/assets/1d14aa65-af29-4c7b-a787-9392c3ed47ee
+
+
+
+
